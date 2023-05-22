@@ -1,6 +1,6 @@
 # kriging
 The primary purpose of this repository is to provide public access to algorithms I have written over the years to fit Kriging models to a set of observations.
-A Kriging model is a Gaussian spacial process model that is able to reproduce relatively complex behavior due to its form. In most cases it is used as an 
+A Kriging model is a Gaussian spatial process model that is able to reproduce relatively complex behavior due to its form. In most cases it is used as an 
 interpolating model for non-lattice distributed observations. 
 
 The majority of the code lies in the kriging directory in specifically in the kriging.py file. The main.py file in the same directory gives an example of reading
